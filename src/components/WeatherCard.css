@@ -1,0 +1,85 @@
+.WeatherCard{
+    place-self: center;
+    padding: 40px;
+    border-radius: 15px;
+    background-image: linear-gradient(145deg, #07C8F9, #09A6F3, #0A85ED, #0C63E7, #0D41E1, #644c77);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Search-bar{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.Search-bar input{
+    padding-left: 25px;
+    height: 50px;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    background: whitesmoke;
+}
+
+.Search-bar img{
+    width: 50px;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 50%;
+    background: whitesmoke;
+}
+
+.WeatherIcon{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+.Temperature{
+    font-size: 4.5rem;;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.Location{
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+.Weather-Data{
+    display: flex; 
+    justify-content: space-between;
+    gap: 40px;
+    margin-top: 30px;
+    color: white;
+    width: 100%;
+}
+
+.Weather-Data .col{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 15px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: white;
+}
+
+.Weather-Data .col img{
+    width: 40px;
+    margin-top: 5px;
+}
+
+.Weather-Data .col span{
+    font-size: 1rem;
+    font-weight: 400;
+    color: white;
+    display: block;
+}
