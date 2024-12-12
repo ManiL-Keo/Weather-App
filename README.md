@@ -20,8 +20,9 @@ A simple weather application built with React and OpenWeatherMap API. This app a
 - Dynamic weather icons based on conditions.
 - user-friendly UI.
 
-## Screenshots
-<iframe src="https://giphy.com/embed/sZPQXNBBN7mbDALod9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-animals-cats-sZPQXNBBN7mbDALod9">via GIPHY</a></p>
+## 
+![duGe5AlKzZLvo6cPsl](https://github.com/user-attachments/assets/b53a520c-9129-46fc-8f4d-ac180fe54738)
+
 
 ## Technologies Used
 - **Frontend:** React, CSS
